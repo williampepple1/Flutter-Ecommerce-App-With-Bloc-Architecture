@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "402584208418",
+    "firebase_url": "https://testapps-2e3a3.firebaseio.com",
+    "project_id": "testapps-2e3a3",
+    "storage_bucket": "testapps-2e3a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402584208418:android:3d5ddefc8eb39eb38c767b",
+        "android_client_info": {
+          "package_name": "com.example.covid19_relief_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402584208418-httvdqr3ia3ftbbicgvmfh802nqeku13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdFQSE7qN0e6qda3v5CWO9QVcdC8fAMPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402584208418-httvdqr3ia3ftbbicgvmfh802nqeku13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402584208418:android:f717e994fc1728288c767b",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402584208418-httvdqr3ia3ftbbicgvmfh802nqeku13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdFQSE7qN0e6qda3v5CWO9QVcdC8fAMPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402584208418-httvdqr3ia3ftbbicgvmfh802nqeku13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
